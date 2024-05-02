@@ -1,0 +1,27 @@
+Entrenador: Marcelo Bielsa
+
+Titulares:
+- Fernando Muslera (Portero)
+- Martín Cáceres (Defensa)
+- José María Giménez (Defensa)
+- Diego Godín (Defensa)
+- Matías Viña (Defensa)
+- Nahitan Nández (Centrocampista)
+- Lucas Torreira (Centrocampista)
+- Federico Valverde (Centrocampista)
+- Luis Suárez (Delantero)
+- Edinson Cavani (Delantero)
+- Brian Rodríguez (Delantero)
+
+Suplentes:
+- Martín Silva (Portero)
+- Giovanni González (Defensa)
+- Sebastián Coates (Defensa)
+- Guillermo Varela (Defensa)
+- Rodrigo Bentancur (Centrocampista)
+- Giorgian De Arrascaeta (Centrocampista)
+- Nicolás De La Cruz (Centrocampista)
+- Darwin Núñez (Delantero)
+- Maximiliano Gómez (Delantero)
+- Jonathan Rodríguez (Delantero)
+- Cristhian Stuani (Delantero)

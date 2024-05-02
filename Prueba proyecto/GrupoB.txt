@@ -1,0 +1,119 @@
+---------------------------------------------
+Equipo: Mexico
+Entrenador: Luiz Felipe Scolari
+
+Titulares:
+
+- Guillermo Ochoa (Portero)
+- Jesús Gallardo (Defensa)
+- Héctor Moreno (Defensa)
+- Carlos Salcedo (Defensa)
+- Luis Rodríguez (Defensa)
+- Héctor Herrera (Centrocampista)
+- Andrés Guardado (Centrocampista)
+- Edson Álvarez (Centrocampista)
+- Hirving Lozano (Delantero)
+- Raúl Jiménez (Delantero)
+- Javier Hernández "Chicharito" (Delantero)
+
+Suplentes:
+- Rodolfo Cota (Portero)
+- Néstor Araujo (Defensa)
+- Gerardo Arteaga (Defensa)
+- Jorge Sánchez (Defensa)
+- Erick Gutiérrez (Centrocampista)
+- Orbelín Pineda (Centrocampista)
+- Diego Lainez (Centrocampista)
+- Uriel Antuna (Centrocampista)
+- Henry Martín (Delantero)
+- Alan Pulido (Delantero)
+- Jesús Corona (Delantero)
+---------------------------------------
+Equipo: Ecuador
+Entrenador: Félix Sánchez Bas
+
+Titulares:
+- Alexander Domínguez (Portero)
+- Antonio Valencia (Defensa)
+- Robert Arboleda (Defensa)
+- Xavier Arreaga (Defensa)
+- Pervis Estupiñán (Defensa)
+- Jefferson Orejuela (Centrocampista)
+- Renato Ibarra (Centrocampista)
+- Carlos Gruezo (Centrocampista)
+- Ángel Mena (Centrocampista)
+- Enner Valencia (Delantero)
+- Michael Estrada (Delantero)
+
+Suplentes:
+- Pedro Ortiz (Portero)
+- Félix Torres (Defensa)
+- Diego Palacios (Defensa)
+- Alan Franco (Centrocampista)
+- José Cifuentes (Centrocampista)
+- Moisés Caicedo (Centrocampista)
+- José Quintero (Centrocampista)
+- Jordy Caicedo (Delantero)
+- Fidel Martínez (Delantero)
+- Leonardo Campana (Delantero)
+- Gonzalo Plata (Delantero)
+----------------------------------------
+Equipo: venezuela
+Entrenador: Fernando Batista
+
+Titulares:
+- Wuilker Fariñez (Portero)
+- Ronald Hernández (Defensa)
+- Wilker Ángel (Defensa)
+- Jhon Chancellor (Defensa)
+- Rolf Feltscher (Defensa)
+- Tomás Rincón (Centrocampista)
+- Yangel Herrera (Centrocampista)
+- Jefferson Savarino (Centrocampista)
+- Josef Martínez (Delantero)
+- Darwin Machís (Delantero)
+- Salomón Rondón (Delantero)
+
+Suplentes:
+- Joel Graterol (Portero)
+- Roberto Rosales (Defensa)
+- Mikel Villanueva (Defensa)
+- Luis Mago (Defensa)
+- Yeferson Soteldo (Centrocampista)
+- Junior Moreno (Centrocampista)
+- Júnior Moreno (Centrocampista)
+- Yangel Herrera (Centrocampista)
+- Fernando Aristeguieta (Delantero)
+- Andrés Ponce (Delantero)
+- Jhonder Cádiz (Delantero)
+--------------------------------------
+Equipos: jamaica
+Entrenador: Heimir Hallgrímsson
+
+Titulares:
+- Andre Blake (Portero)
+- Damion Lowe (Defensa)
+- Adrian Mariappa (Defensa)
+- Alvas Powell (Defensa)
+- Kemar Lawrence (Defensa)
+- Je-Vaughn Watson (Centrocampista)
+- Devon Williams (Centrocampista)
+- Leon Bailey (Centrocampista)
+- Junior Flemmings (Delantero)
+- Bobby Reid (Delantero)
+- Shamar Nicholson (Delantero)
+
+Suplentes:
+- Dwayne Miller (Portero)
+- Michael Hector (Defensa)
+- Amari'i Bell (Defensa)
+- Ethan Pinnock (Defensa)
+- Ravel Morrison (Centrocampista)
+- Kevaughn Isaacs (Centrocampista)
+- Tyreek Magee (Centrocampista)
+- Lamar Walker (Centrocampista)
+- Javon East (Delantero)
+- Peter-Lee Vassell (Delantero)
+- Darren Mattocks (Delantero)
+- Cory Burke (Delantero)
+--------------------------------------------

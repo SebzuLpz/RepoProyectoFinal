@@ -1,0 +1,27 @@
+Entrenador: Thomas Christiansen
+
+Titulares:
+- Luis Mejía (Portero)
+- Michael Murillo (Defensa)
+- Fidel Escobar (Defensa)
+- Harold Cummings (Defensa)
+- Adolfo Machado (Defensa)
+- Aníbal Godoy (Centrocampista)
+- Armando Cooper (Centrocampista)
+- Alberto Quintero (Centrocampista)
+- Gabriel Torres (Delantero)
+- Blas Pérez (Delantero)
+- José Luis Rodríguez (Delantero)
+
+Suplentes:
+- Orlando Mosquera (Portero)
+- Francisco Palacios (Defensa)
+- Éric Davis (Defensa)
+- César Blackman (Centrocampista)
+- Marcos Sánchez (Centrocampista)
+- Abdiel Arroyo (Centrocampista)
+- Edgar Bárcenas (Centrocampista)
+- Valentín Pimentel (Centrocampista)
+- Rolando Blackburn (Delantero)
+- Jorman Aguilar (Delantero)
+- Eduardo Guerrero (Delantero)

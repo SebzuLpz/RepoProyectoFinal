@@ -1,0 +1,119 @@
+-------------------------------
+Equipo: Estados Unidos
+Entrenador: Gregg Matthew Berhalter
+
+Titulares:
+- Zack Steffen (Portero)
+- Sergiño Dest (Defensa)
+- John Brooks (Defensa)
+- Matt Miazga (Defensa)
+- Antonee Robinson (Defensa)
+- Weston McKennie (Centrocampista)
+- Tyler Adams (Centrocampista)
+- Christian Pulisic (Centrocampista)
+- Gio Reyna (Centrocampista)
+- Jordan Morris (Delantero)
+- Josh Sargent (Delantero)
+
+Suplentes:
+- Ethan Horvath (Portero)
+- Reggie Cannon (Defensa)
+- Aaron Long (Defensa)
+- Tim Ream (Defensa)
+- Kellyn Acosta (Centrocampista)
+- Sebastian Lletget (Centrocampista)
+- Yunus Musah (Centrocampista)
+- Brenden Aaronson (Centrocampista)
+- Daryl Dike (Delantero)
+- Timothy Weah (Delantero)
+- Paul Arriola (Delantero)
+------------------------------------------
+Equipo: Uruguay
+Entrenador: Marcelo Bielsa
+
+Titulares:
+- Fernando Muslera (Portero)
+- Martín Cáceres (Defensa)
+- José María Giménez (Defensa)
+- Diego Godín (Defensa)
+- Matías Viña (Defensa)
+- Nahitan Nández (Centrocampista)
+- Lucas Torreira (Centrocampista)
+- Federico Valverde (Centrocampista)
+- Luis Suárez (Delantero)
+- Edinson Cavani (Delantero)
+- Brian Rodríguez (Delantero)
+
+Suplentes:
+- Martín Silva (Portero)
+- Giovanni González (Defensa)
+- Sebastián Coates (Defensa)
+- Guillermo Varela (Defensa)
+- Rodrigo Bentancur (Centrocampista)
+- Giorgian De Arrascaeta (Centrocampista)
+- Nicolás De La Cruz (Centrocampista)
+- Darwin Núñez (Delantero)
+- Maximiliano Gómez (Delantero)
+- Jonathan Rodríguez (Delantero)
+- Cristhian Stuani (Delantero)
+
+--------------------------------------------
+Equipo: Panama
+Entrenador: Thomas Christiansen
+
+Titulares:
+- Luis Mejía (Portero)
+- Michael Murillo (Defensa)
+- Fidel Escobar (Defensa)
+- Harold Cummings (Defensa)
+- Adolfo Machado (Defensa)
+- Aníbal Godoy (Centrocampista)
+- Armando Cooper (Centrocampista)
+- Alberto Quintero (Centrocampista)
+- Gabriel Torres (Delantero)
+- Blas Pérez (Delantero)
+- José Luis Rodríguez (Delantero)
+
+Suplentes:
+- Orlando Mosquera (Portero)
+- Francisco Palacios (Defensa)
+- Éric Davis (Defensa)
+- César Blackman (Centrocampista)
+- Marcos Sánchez (Centrocampista)
+- Abdiel Arroyo (Centrocampista)
+- Edgar Bárcenas (Centrocampista)
+- Valentín Pimentel (Centrocampista)
+- Rolando Blackburn (Delantero)
+- Jorman Aguilar (Delantero)
+- Eduardo Guerrero (Delantero)
+-----------------------------------------
+Equipo:  Bolivia
+Entrenador:  Antonio Carlos Zago
+
+Titulares:
+- Carlos Lampe (Portero)
+- Adrián Jusino (Defensa)
+- Luis Haquin (Defensa)
+- Diego Bejarano (Defensa)
+- José Sagredo (Defensa)
+- Leonel Justiniano (Centrocampista)
+- Jeyson Chura (Centrocampista)
+- Erwin Saavedra (Centrocampista)
+- Juan Carlos Arce (Delantero)
+- Alejandro Chumacero (Delantero)
+- Marcelo Moreno (Delantero)
+
+Suplentes:
+- Rubén Cordano (Portero)
+- Gabriel Valverde (Defensa)
+- Jesús Sagredo (Defensa)
+- Óscar Ribera (Defensa)
+- Moisés Villarroel (Centrocampista)
+- Christian Machado (Centrocampista)
+- Ramiro Vaca (Centrocampista)
+- Carlos Añez (Centrocampista)
+- Bruno Miranda (Delantero)
+- Boris Céspedes (Delantero)
+- Rodrigo Ramallo (Delantero)
+- Gilbert Álvarez (Delantero)
+-------------------------------------

@@ -1,0 +1,27 @@
+Entrenador: Daniel Garnero
+
+Titulares:
+- Antony Silva (Portero)
+- Gustavo Gómez (Defensa)
+- Junior Alonso (Defensa)
+- Fabián Balbuena (Defensa)
+- Miguel Samudio (Defensa)
+- Richard Sánchez (Centrocampista)
+- Óscar Romero (Centrocampista)
+- Matías Rojas (Centrocampista)
+- Ángel Romero (Delantero)
+- Óscar Cardozo (Delantero)
+- Derlis González (Delantero)
+
+Suplentes:
+- Roberto Fernández (Portero)
+- Juan Patiño (Defensa)
+- Robert Rojas (Defensa)
+- Blas Riveros (Defensa)
+- Celso Ortiz (Centrocampista)
+- Gastón Giménez (Centrocampista)
+- Cecilio Domínguez (Delantero)
+- Federico Santander (Delantero)
+- Hernán Pérez (Delantero)
+- Carlos González (Delantero)
+- Braian Samudio (Delantero)

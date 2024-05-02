@@ -1,0 +1,118 @@
+--------------------------------
+Equipo: brasil
+Entrenador: Dorival Junior  
+
+Titulares:
+-Alisson Becker (Portero)
+-Danilo (Defensa)
+-Thiago Silva (Defensa)
+-Marquinhos (Defensa)
+-Alex Sandro (Defensa)
+-Casemiro (Centrocampista)
+-Fabinho (Centrocampista)
+-Philippe Coutinho (Centrocampista)
+-Neymar Jr. (Delantero)
+-Roberto Firmino (Delantero)
+-Richarlison (Delantero)
+
+
+Suplentes:
+- Ederson (Portero)
+- Éder Militão (Defensa)
+- Renan Lodi (Defensa)
+- Lucas Paquetá (Centrocampista)
+- Arthur (Centrocampista)
+- Douglas Luiz (Centrocampista)
+- Everton (Delantero)
+- Gabriel Jesus (Delantero)
+- Vinícius Jr. (Delantero)
+- Rodrygo (Delantero)
+- Gabriel Barbosa "Gabigol" (Delantero)
+-----------------------------------------
+Equipo: colombia
+Entrenador: Nestor Lorenzo
+
+Titulares:
+- David Ospina (Portero)
+- Santiago Arias (Defensa)
+- Yerry Mina (Defensa)
+- Davinson Sánchez (Defensa)
+- William Tesillo (Defensa)
+- Wilmar Barrios (Centrocampista)
+- Juan Cuadrado (Centrocampista)
+- Mateus Uribe (Centrocampista)
+- James Rodríguez (Centrocampista)
+- Luis Díaz (Delantero)
+- Radamel Falcao García (Delantero)
+
+Suplentes:
+- Álvaro Montero (Portero)
+- Stefan Medina (Defensa)
+- Óscar Murillo (Defensa)
+- Johan Mojica (Defensa)
+- Jefferson Lerma (Centrocampista)
+- Edwin Cardona (Centrocampista)
+- Juan Fernando Quintero (Centrocampista)
+- Yimmi Chará (Delantero)
+- Duván Zapata (Delantero)
+- Miguel Borja (Delantero)
+- Alfredo Morelos (Delantero)
+-----------------------------------
+Equipo: paraguay
+Entrenador: Daniel Garnero
+
+Titulares:
+- Antony Silva (Portero)
+- Gustavo Gómez (Defensa)
+- Junior Alonso (Defensa)
+- Fabián Balbuena (Defensa)
+- Miguel Samudio (Defensa)
+- Richard Sánchez (Centrocampista)
+- Óscar Romero (Centrocampista)
+- Matías Rojas (Centrocampista)
+- Ángel Romero (Delantero)
+- Óscar Cardozo (Delantero)
+- Derlis González (Delantero)
+
+Suplentes:
+- Roberto Fernández (Portero)
+- Juan Patiño (Defensa)
+- Robert Rojas (Defensa)
+- Blas Riveros (Defensa)
+- Celso Ortiz (Centrocampista)
+- Gastón Giménez (Centrocampista)
+- Cecilio Domínguez (Delantero)
+- Federico Santander (Delantero)
+- Hernán Pérez (Delantero)
+- Carlos González (Delantero)
+- Braian Samudio (Delantero)
+-----------------------------------------
+Equipo: costa rica
+Entrenador: Gustavo Alfaro
+
+Titulares:
+- Keylor Navas (Portero)
+- Cristian Gamboa (Defensa)
+- Giancarlo González (Defensa)
+- Kendall Waston (Defensa)
+- Ronald Matarrita (Defensa)
+- Celso Borges (Centrocampista)
+- Bryan Ruiz (Centrocampista)
+- Allan Cruz (Centrocampista)
+- Joel Campbell (Delantero)
+- Johan Venegas (Delantero)
+- Marco Ureña (Delantero)
+
+Suplentes:
+- Esteban Alvarado (Portero)
+- Óscar Duarte (Defensa)
+- Francisco Calvo (Defensa)
+- Bryan Oviedo (Defensa)
+- David Guzmán (Centrocampista)
+- Yeltsin Tejeda (Centrocampista)
+- Randall Leal (Centrocampista)
+- José Guillermo Ortiz (Delantero)
+- Mayron George (Delantero)
+- Jonathan McDonald (Delantero)
+- Ariel Lassiter (Delantero)
+---------------------------------------

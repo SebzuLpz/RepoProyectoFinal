@@ -1,0 +1,112 @@
+-------------------------------------------------
+Equipo: argentina
+Entrenador: Lionel scaloni
+
+Titulares:
+-Emiliano Martinez (Portero)
+-Juan Foyth (Defensa)
+-Nicolas Otamendi (Defensa)
+-Marcos Acuna (Defensa)
+-Nicolas Tagliafico (Defensa)
+-Rodrigo De Paul (Centrocampista)
+-Giovani Lo Celso (Centrocampista)
+-Leandro Paredes (Centrocampista)
+-Angel Di Maria (Delantero)
+-Lionel Messi (Delantero)
+-Lautaro Martinez (Delantero)
+
+Suplentes:
+-Juan Musso (Portero)
+-Gonzalo Montiel (Defensa)
+-Lucas Martinez Quarta (Defensa)
+-Exequiel Palacios (Centrocampista)
+-Alejandro Gomez (Centrocampista)
+-Sergio Aguero (Delantero)
+----------------------------------------------
+Equipo: chile
+Entrenador: Ricardo Gareca
+
+Titulares:
+- Claudio Bravo (Portero)
+- Mauricio Isla (Defensa)
+- Gary Medel (Defensa)
+- Guillermo Maripán (Defensa)
+- Eugenio Mena (Defensa)
+- Charles Aránguiz (Centrocampista)
+- Arturo Vidal (Centrocampista)
+- Erick Pulgar (Centrocampista)
+- Alexis Sánchez (Delantero)
+- Eduardo Vargas (Delantero)
+- Jean Meneses (Delantero)
+
+Suplentes:
+- Gabriel Arias (Portero)
+- Paulo Díaz (Defensa)
+- Enzo Roco (Defensa)
+- Sebastián Vegas (Defensa)
+- Claudio Baeza (Centrocampista)
+- César Pinares (Centrocampista)
+- Diego Valdés (Centrocampista)
+- Ben Brereton (Delantero)
+- Felipe Mora (Delantero)
+- Nicolás Castillo (Delantero)
+- Pablo Galdames (Centrocampista)
+----------------------------------------
+Equipo: peru
+Entrenador: Jorge Fossati
+
+Titulares:
+- Pedro Gallese (Portero)
+- Luis Advíncula (Defensa)
+- Anderson Santamaría (Defensa)
+- Carlos Zambrano (Defensa)
+- Miguel Trauco (Defensa)
+- Renato Tapia (Centrocampista)
+- Yoshimar Yotún (Centrocampista)
+- Christian Cueva (Centrocampista)
+- André Carrillo (Delantero)
+- Paolo Guerrero (Delantero)
+- Jefferson Farfán (Delantero)
+
+Suplentes:
+- José Carvallo (Portero)
+- Aldo Corzo (Defensa)
+- Christian Ramos (Defensa)
+- Marcos López (Defensa)
+- Pedro Aquino (Centrocampista)
+- Christofer Gonzáles (Centrocampista)
+- Edison Flores (Centrocampista)
+- Sergio Peña (Centrocampista)
+- Raúl Ruidíaz (Delantero)
+- Gianluca Lapadula (Delantero)
+- Andy Polo (Delantero)
+----------------------------------------
+Equipo: Canada
+Entrenador: Mauro Biello
+
+Titulares:
+- Milan Borjan (Portero)
+- Richie Laryea (Defensa)
+- Doneil Henry (Defensa)
+- Kamal Miller (Defensa)
+- Alphonso Davies (Defensa)
+- Samuel Piette (Centrocampista)
+- Mark-Anthony Kaye (Centrocampista)
+- Jonathan Osorio (Centrocampista)
+- Stephen Eustáquio (Centrocampista)
+- Junior Hoilett (Delantero)
+- Cyle Larin (Delantero)
+
+Suplentes:
+Maxime Crépeau (Portero)
+Alistair Johnston (Defensa)
+Derek Cornelius (Defensa)
+Scott Arfield (Centrocampista)
+Liam Fraser (Centrocampista)
+David Wotherspoon (Centrocampista)
+Tesho Akindele (Delantero)
+Lucas Cavallini (Delantero)
+Jonathan David (Delantero)
+Tajon Buchanan (Delantero)
+Theo Corbeanu (Delantero)
+--------------------------------------

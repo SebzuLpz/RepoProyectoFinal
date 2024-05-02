@@ -1,0 +1,27 @@
+Entrenador: Fernando Batista
+
+Titulares:
+- Wuilker Fariñez (Portero)
+- Ronald Hernández (Defensa)
+- Wilker Ángel (Defensa)
+- Jhon Chancellor (Defensa)
+- Rolf Feltscher (Defensa)
+- Tomás Rincón (Centrocampista)
+- Yangel Herrera (Centrocampista)
+- Jefferson Savarino (Centrocampista)
+- Josef Martínez (Delantero)
+- Darwin Machís (Delantero)
+- Salomón Rondón (Delantero)
+
+Suplentes:
+- Joel Graterol (Portero)
+- Roberto Rosales (Defensa)
+- Mikel Villanueva (Defensa)
+- Luis Mago (Defensa)
+- Yeferson Soteldo (Centrocampista)
+- Junior Moreno (Centrocampista)
+- Júnior Moreno (Centrocampista)
+- Yangel Herrera (Centrocampista)
+- Fernando Aristeguieta (Delantero)
+- Andrés Ponce (Delantero)
+- Jhonder Cádiz (Delantero)

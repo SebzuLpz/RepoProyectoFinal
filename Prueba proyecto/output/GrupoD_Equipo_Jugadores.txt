@@ -1,0 +1,91 @@
+Brasil;1;Alisson Becker;Portero;3;0.85;0.7;0
+Brasil;2;Danilo;Defensa;4;0.8;0.65;0
+Brasil;3;Thiago Silva;Defensa;5;0.85;0.6;0
+Brasil;4;Marquinhos;Defensa;4;0.75;0.65;0
+Brasil;5;Alex Sandro;Defensa;5;0.8;0.7;0
+Brasil;6;Casemiro;Centrocampista;6;0.7;0.8;0
+Brasil;7;Fabinho;Centrocampista;5;0.75;0.85;0
+Brasil;8;Philippe Coutinho;Centrocampista;7;0.6;0.9;0
+Brasil;9;Neymar Jr.;Delantero;7;0.6;0.9;0
+Brasil;10;Roberto Firmino;Delantero;6;0.65;0.95;0
+Brasil;11;Richarlison;Delantero;7;0.6;0.9;0
+Brasil;12;Ederson;Portero;3;0.8;0.7;0
+Brasil;13;Éder Militão;Defensa;4;0.75;0.65;0
+Brasil;14;Renan Lodi;Defensa;5;0.8;0.6;0
+Brasil;15;Lucas Paquetá;Centrocampista;6;0.7;0.8;0
+Brasil;16;Arthur;Centrocampista;5;0.75;0.85;0
+Brasil;17;Douglas Luiz;Centrocampista;7;0.6;0.9;0
+Brasil;18;Everton;Delantero;7;0.6;0.9;0
+Brasil;19;Gabriel Jesus;Delantero;6;0.65;0.95;0
+Brasil;20;Vinícius Jr.;Delantero;7;0.6;0.9;0
+Brasil;21;Rodrygo;Delantero;6;0.65;0.95;0
+Brasil;22;Gabriel Barbosa "Gabigol";Delantero;7;0.6;0.9;0
+
+Colombia;1;David Ospina;Portero;3;0.85;0.7;0
+Colombia;2;Santiago Arias;Defensa;4;0.8;0.65;0
+Colombia;3;Yerry Mina;Defensa;5;0.85;0.6;0
+Colombia;4;Davinson Sánchez;Defensa;4;0.75;0.65;0
+Colombia;5;William Tesillo;Defensa;5;0.8;0.7;0
+Colombia;6;Wilmar Barrios;Centrocampista;6;0.7;0.8;0
+Colombia;7;Juan Cuadrado;Centrocampista;5;0.75;0.85;0
+Colombia;8;Mateus Uribe;Centrocampista;7;0.6;0.9;0
+Colombia;9;James Rodríguez;Centrocampista;7;0.6;0.9;0
+Colombia;10;Luis Díaz;Delantero;6;0.65;0.95;0
+Colombia;11;Radamel Falcao García;Delantero;7;0.6;0.9;0
+Colombia;12;Álvaro Montero;Portero;3;0.8;0.7;0
+Colombia;13;Stefan Medina;Defensa;4;0.75;0.65;0
+Colombia;14;Óscar Murillo;Defensa;5;0.8;0.6;0
+Colombia;15;Johan Mojica;Defensa;4;0.75;0.65;0
+Colombia;16;Jefferson Lerma;Centrocampista;6;0.7;0.8;0
+Colombia;17;Edwin Cardona;Centrocampista;5;0.75;0.85;0
+Colombia;18;Juan Fernando Quintero;Centrocampista;7;0.6;0.9;0
+Colombia;19;Yimmi Chará;Delantero;6;0.65;0.95;0
+Colombia;20;Duván Zapata;Delantero;7;0.6;0.9;0
+Colombia;21;Miguel Borja;Delantero;7;0.6;0.9;0
+Colombia;22;Alfredo Morelos;Delantero;7;0.6;0.9;0
+
+Paraguay;1;Antony Silva;Portero;3;0.85;0.7;0
+Paraguay;2;Gustavo Gómez;Defensa;4;0.8;0.65;0
+Paraguay;3;Junior Alonso;Defensa;5;0.85;0.6;0
+Paraguay;4;Fabián Balbuena;Defensa;4;0.75;0.65;0
+Paraguay;5;Miguel Samudio;Defensa;5;0.8;0.7;0
+Paraguay;6;Richard Sánchez;Centrocampista;6;0.7;0.8;0
+Paraguay;7;Óscar Romero;Centrocampista;7;0.6;0.9;0
+Paraguay;8;Matías Rojas;Centrocampista;5;0.75;0.85;0
+Paraguay;9;Ángel Romero;Delantero;7;0.6;0.9;0
+Paraguay;10;Óscar Cardozo;Delantero;7;0.6;0.9;0
+Paraguay;11;Derlis González;Delantero;7;0.6;0.9;0
+Paraguay;12;Roberto Fernández;Portero;3;0.8;0.7;0
+Paraguay;13;Juan Patiño;Defensa;4;0.75;0.65;0
+Paraguay;14;Robert Rojas;Defensa;5;0.8;0.6;0
+Paraguay;15;Blas Riveros;Defensa;4;0.75;0.65;0
+Paraguay;16;Celso Ortiz;Centrocampista;6;0.7;0.8;0
+Paraguay;17;Gastón Giménez;Centrocampista;5;0.75;0.85;0
+Paraguay;18;Cecilio Domínguez;Delantero;7;0.6;0.9;0
+Paraguay;19;Federico Santander;Delantero;6;0.65;0.95;0
+Paraguay;20;Hernán Pérez;Delantero;7;0.6;0.9;0
+Paraguay;21;Carlos González;Delantero;7;0.6;0.9;0
+Paraguay;22;Braian Samudio;Delantero;7;0.6;0.9;0
+
+Costa Rica;1;Keylor Navas;Portero;3;0.85;0.7;0
+Costa Rica;2;Cristian Gamboa;Defensa;4;0.8;0.65;0
+Costa Rica;3;Giancarlo González;Defensa;5;0.85;0.6;0
+Costa Rica;4;Kendall Waston;Defensa;4;0.75;0.65;0
+Costa Rica;5;Ronald Matarrita;Defensa;5;0.8;0.7;0
+Costa Rica;6;Celso Borges;Centrocampista;6;0.7;0.8;0
+Costa Rica;7;Bryan Ruiz;Centrocampista;5;0.75;0.85;0
+Costa Rica;8;Allan Cruz;Centrocampista;7;0.6;0.9;0
+Costa Rica;9;Joel Campbell;Delantero;6;0.65;0.95;0
+Costa Rica;10;Johan Venegas;Delantero;6;0.65;0.95;0
+Costa Rica;11;Marco Ureña;Delantero;7;0.6;0.9;0
+Costa Rica;12;Esteban Alvarado;Portero;3;0.8;0.7;0
+Costa Rica;13;Óscar Duarte;Defensa;4;0.75;0.65;0
+Costa Rica;14;Francisco Calvo;Defensa;5;0.8;0.6;0
+Costa Rica;15;Bryan Oviedo;Defensa;4;0.75;0.65;0
+Costa Rica;16;David Guzmán;Centrocampista;6;0.7;0.8;0
+Costa Rica;17;Yeltsin Tejeda;Centrocampista;5;0.75;0.85;0
+Costa Rica;18;Randall Leal;Centrocampista;7;0.6;0.9;0
+Costa Rica;19;José Guillermo Ortiz;Delantero;6;0.65;0.95;0
+Costa Rica;20;Mayron George;Delantero;6;0.65;0.95;0
+Costa Rica;21;Jonathan McDonald;Delantero;7;0.6;0.9;0
+Costa Rica;22;Ariel Lassiter;Delantero;7;0.6;0.9;0

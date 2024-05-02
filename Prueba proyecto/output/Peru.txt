@@ -1,0 +1,27 @@
+Entrenador: Jorge Fossati
+
+Titulares:
+- Pedro Gallese (Portero)
+- Luis Advíncula (Defensa)
+- Anderson Santamaría (Defensa)
+- Carlos Zambrano (Defensa)
+- Miguel Trauco (Defensa)
+- Renato Tapia (Centrocampista)
+- Yoshimar Yotún (Centrocampista)
+- Christian Cueva (Centrocampista)
+- André Carrillo (Delantero)
+- Paolo Guerrero (Delantero)
+- Jefferson Farfán (Delantero)
+
+Suplentes:
+- José Carvallo (Portero)
+- Aldo Corzo (Defensa)
+- Christian Ramos (Defensa)
+- Marcos López (Defensa)
+- Pedro Aquino (Centrocampista)
+- Christofer Gonzáles (Centrocampista)
+- Edison Flores (Centrocampista)
+- Sergio Peña (Centrocampista)
+- Raúl Ruidíaz (Delantero)
+- Gianluca Lapadula (Delantero)
+- Andy Polo (Delantero)

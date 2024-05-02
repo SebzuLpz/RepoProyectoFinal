@@ -1,0 +1,92 @@
+Estados Unidos;1;Zack Steffen;Portero;3;0.85;0.7;0
+Estados Unidos;2;Sergiño Dest;Defensa;4;0.8;0.65;0
+Estados Unidos;3;John Brooks;Defensa;5;0.85;0.6;0
+Estados Unidos;4;Matt Miazga;Defensa;4;0.75;0.65;0
+Estados Unidos;5;Antonee Robinson;Defensa;5;0.8;0.7;0
+Estados Unidos;6;Weston McKennie;Centrocampista;6;0.7;0.8;0
+Estados Unidos;7;Tyler Adams;Centrocampista;5;0.75;0.85;0
+Estados Unidos;8;Christian Pulisic;Centrocampista;7;0.6;0.9;0
+Estados Unidos;9;Gio Reyna;Centrocampista;6;0.7;0.8;0
+Estados Unidos;10;Jordan Morris;Delantero;6;0.65;0.95;0
+Estados Unidos;11;Josh Sargent;Delantero;7;0.6;0.9;0
+Estados Unidos;12;Ethan Horvath;Portero;3;0.8;0.7;0
+Estados Unidos;13;Reggie Cannon;Defensa;4;0.75;0.65;0
+Estados Unidos;14;Aaron Long;Defensa;5;0.8;0.6;0
+Estados Unidos;15;Tim Ream;Defensa;4;0.75;0.65;0
+Estados Unidos;16;Kellyn Acosta;Centrocampista;6;0.7;0.8;0
+Estados Unidos;17;Sebastian Lletget;Centrocampista;5;0.75;0.85;0
+Estados Unidos;18;Yunus Musah;Centrocampista;6;0.7;0.8;0
+Estados Unidos;19;Brenden Aaronson;Centrocampista;5;0.75;0.85;0
+Estados Unidos;20;Daryl Dike;Delantero;7;0.6;0.9;0
+Estados Unidos;21;Timothy Weah;Delantero;6;0.65;0.95;0
+Estados Unidos;22;Paul Arriola;Delantero;7;0.6;0.9;0
+
+Uruguay;1;Fernando Muslera;Portero;3;0.85;0.7;0
+Uruguay;2;Martín Cáceres;Defensa;4;0.8;0.65;0
+Uruguay;3;José María Giménez;Defensa;5;0.85;0.6;0
+Uruguay;4;Diego Godín;Defensa;4;0.75;0.65;0
+Uruguay;5;Matías Viña;Defensa;5;0.8;0.7;0
+Uruguay;6;Nahitan Nández;Centrocampista;6;0.7;0.8;0
+Uruguay;7;Lucas Torreira;Centrocampista;5;0.75;0.85;0
+Uruguay;8;Federico Valverde;Centrocampista;7;0.6;0.9;0
+Uruguay;9;Luis Suárez;Delantero;7;0.6;0.9;0
+Uruguay;10;Edinson Cavani;Delantero;6;0.65;0.95;0
+Uruguay;11;Brian Rodríguez;Delantero;7;0.6;0.9;0
+Uruguay;12;Martín Silva;Portero;3;0.8;0.7;0
+Uruguay;13;Giovanni González;Defensa;4;0.75;0.65;0
+Uruguay;14;Sebastián Coates;Defensa;5;0.8;0.6;0
+Uruguay;15;Guillermo Varela;Defensa;4;0.75;0.65;0
+Uruguay;16;Rodrigo Bentancur;Centrocampista;6;0.7;0.8;0
+Uruguay;17;Giorgian De Arrascaeta;Centrocampista;5;0.75;0.85;0
+Uruguay;18;Nicolás De La Cruz;Centrocampista;7;0.6;0.9;0
+Uruguay;19;Darwin Núñez;Delantero;7;0.6;0.9;0
+Uruguay;20;Maximiliano Gómez;Delantero;6;0.65;0.95;0
+Uruguay;21;Jonathan Rodríguez;Delantero;7;0.6;0.9;0
+Uruguay;22;Cristhian Stuani;Delantero;6;0.65;0.95;0
+
+Panama;1;Luis Mejía;Portero;3;0.85;0.7;0
+Panama;2;Michael Murillo;Defensa;4;0.8;0.65;0
+Panama;3;Fidel Escobar;Defensa;5;0.85;0.6;0
+Panama;4;Harold Cummings;Defensa;4;0.75;0.65;0
+Panama;5;Adolfo Machado;Defensa;5;0.8;0.7;0
+Panama;6;Aníbal Godoy;Centrocampista;6;0.7;0.8;0
+Panama;7;Armando Cooper;Centrocampista;5;0.75;0.85;0
+Panama;8;Alberto Quintero;Centrocampista;7;0.6;0.9;0
+Panama;9;Gabriel Torres;Delantero;6;0.65;0.95;0
+Panama;10;Blas Pérez;Delantero;7;0.6;0.9;0
+Panama;11;José Luis Rodríguez;Delantero;6;0.65;0.95;0
+Panama;12;Orlando Mosquera;Portero;3;0.8;0.7;0
+Panama;13;Francisco Palacios;Defensa;4;0.75;0.65;0
+Panama;14;Éric Davis;Defensa;5;0.8;0.6;0
+Panama;15;César Blackman;Centrocampista;6;0.7;0.8;0
+Panama;16;Marcos Sánchez;Centrocampista;5;0.75;0.85;0
+Panama;17;Abdiel Arroyo;Centrocampista;7;0.6;0.9;0
+Panama;18;Edgar Bárcenas;Centrocampista;6;0.65;0.95;0
+Panama;19;Valentín Pimentel;Centrocampista;5;0.7;0.8;0
+Panama;20;Rolando Blackburn;Delantero;7;0.6;0.9;0
+Panama;21;Jorman Aguilar;Delantero;6;0.65;0.95;0
+Panama;22;Eduardo Guerrero;Delantero;7;0.6;0.9;0
+
+Bolivia;1;Carlos Lampe;Portero;3;0.85;0.7;0
+Bolivia;2;Adrián Jusino;Defensa;4;0.8;0.65;0
+Bolivia;3;Luis Haquin;Defensa;5;0.85;0.6;0
+Bolivia;4;Diego Bejarano;Defensa;4;0.75;0.65;0
+Bolivia;5;José Sagredo;Defensa;5;0.8;0.7;0
+Bolivia;6;Leonel Justiniano;Centrocampista;6;0.7;0.8;0
+Bolivia;7;Jeyson Chura;Centrocampista;5;0.75;0.85;0
+Bolivia;8;Erwin Saavedra;Centrocampista;7;0.6;0.9;0
+Bolivia;9;Juan Carlos Arce;Delantero;6;0.65;0.95;0
+Bolivia;10;Alejandro Chumacero;Delantero;7;0.6;0.9;0
+Bolivia;11;Marcelo Moreno;Delantero;8;0.5;1;0
+Bolivia;12;Rubén Cordano;Portero;3;0.8;0.7;0
+Bolivia;13;Gabriel Valverde;Defensa;4;0.75;0.65;0
+Bolivia;14;Jesús Sagredo;Defensa;5;0.8;0.6;0
+Bolivia;15;Óscar Ribera;Defensa;4;0.75;0.65;0
+Bolivia;16;Moisés Villarroel;Centrocampista;6;0.7;0.8;0
+Bolivia;17;Christian Machado;Centrocampista;5;0.75;0.85;0
+Bolivia;18;Ramiro Vaca;Centrocampista;7;0.6;0.9;0
+Bolivia;19;Carlos Añez;Centrocampista;6;0.65;0.95;0
+Bolivia;20;Bruno Miranda;Delantero;7;0.6;0.9;0
+Bolivia;21;Boris Céspedes;Delantero;6;0.65;0.95;0
+Bolivia;22;Rodrigo Ramallo;Delantero;7;0.5;1;0
+Bolivia;23;Gilbert Álvarez;Delantero;8;0.5;1;0

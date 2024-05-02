@@ -1,0 +1,27 @@
+Entrenador: Ricardo Gareca
+
+Titulares:
+- Claudio Bravo (Portero)
+- Mauricio Isla (Defensa)
+- Gary Medel (Defensa)
+- Guillermo Maripán (Defensa)
+- Eugenio Mena (Defensa)
+- Charles Aránguiz (Centrocampista)
+- Arturo Vidal (Centrocampista)
+- Erick Pulgar (Centrocampista)
+- Alexis Sánchez (Delantero)
+- Eduardo Vargas (Delantero)
+- Jean Meneses (Delantero)
+
+Suplentes:
+- Gabriel Arias (Portero)
+- Paulo Díaz (Defensa)
+- Enzo Roco (Defensa)
+- Sebastián Vegas (Defensa)
+- Claudio Baeza (Centrocampista)
+- César Pinares (Centrocampista)
+- Diego Valdés (Centrocampista)
+- Ben Brereton (Delantero)
+- Felipe Mora (Delantero)
+- Nicolás Castillo (Delantero)
+- Pablo Galdames (Centrocampista)

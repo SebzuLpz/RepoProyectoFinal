@@ -1,0 +1,27 @@
+Entrenador: Nestor Lorenzo
+
+Titulares:
+- David Ospina (Portero)
+- Santiago Arias (Defensa)
+- Yerry Mina (Defensa)
+- Davinson Sánchez (Defensa)
+- William Tesillo (Defensa)
+- Wilmar Barrios (Centrocampista)
+- Juan Cuadrado (Centrocampista)
+- Mateus Uribe (Centrocampista)
+- James Rodríguez (Centrocampista)
+- Luis Díaz (Delantero)
+- Radamel Falcao García (Delantero)
+
+Suplentes:
+- Álvaro Montero (Portero)
+- Stefan Medina (Defensa)
+- Óscar Murillo (Defensa)
+- Johan Mojica (Defensa)
+- Jefferson Lerma (Centrocampista)
+- Edwin Cardona (Centrocampista)
+- Juan Fernando Quintero (Centrocampista)
+- Yimmi Chará (Delantero)
+- Duván Zapata (Delantero)
+- Miguel Borja (Delantero)
+- Alfredo Morelos (Delantero)
